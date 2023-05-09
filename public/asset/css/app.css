@@ -1,0 +1,27 @@
+.card-weather {
+    background: #e1ecff;
+    background-image: linear-gradient(to left bottom, #d6eef6, #dff0fa, #e7f3fc, #eff6fe, #f6f9ff);
+}
+
+.table-condensed{
+    font-size: 11px;
+}
+
+.card-title {
+    text-align: center;
+}
+
+.btn-padding {
+    padding: 10px;
+}
+
+.btn-white {
+    color: #212529;
+    background-color: #ffffff;
+}
+
+.btn-white:hover {
+    color: #212529;
+    background-color: #9fcfff;
+    border-color: #9fcfff;
+}
